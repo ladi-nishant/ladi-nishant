@@ -24,7 +24,10 @@
 ---
 
 <!-- 🌊 Wave Divider -->
-<img src="https://raw.githubusercontent.com/luisangelisrael/wave-divider/main/wave.svg" alt="wave divider"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00fff7,100:ff00ff&height=100&section=header"/>
+</p>
+
 
 ---
 
