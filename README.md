@@ -1,3 +1,43 @@
+<h1 align="center">Hi 👋, I'm Ladi Nishant</h1>
+<h3 align="center">Full-Stack Developer | Security Enthusiast | Open-Source Contributor</h3>
+
+---
+
+## 🚀 About Me
+Skilled in **JavaScript (ES6+), TypeScript, Node.js, React, Express, and WebSockets**, I bring hands-on experience in **containerization (Docker, Kubernetes)**, **CI/CD pipelines**, **OAuth-based authentication**, and **database management (SQL/NoSQL)**.  
+- 🔭 Currently building **real-time analytics & web security tools**  
+- 🌱 Learning **Cloud (AWS), DevOps & applied ML for security**  
+- 💬 Ask me about **React, Next.js, Node.js, FastAPI, PostgreSQL, Redis**  
+- 📫 Reach me: **nishant6038@gmail.com**  
+- ⚡ Fun fact: I debug at 3 AM and call it *“night mode coding”* 🌙  
+
+---
+
+## 📊 GitHub Stats & Charts  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ladi-nishant&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="160" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="https://streak-stats.demolab.com?user=ladi-nishant&theme=tokyonight&hide_border=true&border_radius=12" height="160" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladi-nishant&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+</p>
+
+---
+
+## 🏆 Achievements & Activity  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ladi-nishant&theme=onedark&margin-w=10&margin-h=10&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ladi-nishant&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
+</p>
+
+---
+
 ## 🔧 Technical Skills  
 
 ### 🖥️ Languages  
@@ -32,4 +72,15 @@
   <img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Winston_Logger-000000?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+---
+
+## 🌍 Connect with Me  
+
+<p align="center">
+  <a href="mailto:nishant6038@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ladi-nishant"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ladi-nishant"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
