@@ -1,23 +1,25 @@
-<!-- 🌌 Animated Gradient Banner -->
+<!-- ✨ Futuristic Gradient Banner -->
 <p align="center">
   <img src="https://i.ibb.co/7VbWjJj/gradient-bg.gif" width="100%" alt="animated banner" />
 </p>
 
-<!-- Neon Typing SVG -->
+<!-- 🌌 Neon Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=⚡+Ladi+Nishant;💻+Full+Stack+Developer;🔐+Security+Enthusiast;🚀+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=⚡+Ladi+Nishant;💻+Full+Stack+Developer;🔐+Security+Enthusiast;🚀+Building+Cool+Stuff" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
-Skilled in **JavaScript (ES6+), TypeScript, Node.js, React, Express, and WebSockets**, I bring hands-on experience in **containerization (Docker, Kubernetes)**, **CI/CD pipelines**, **OAuth-based authentication**, and **database management (SQL/NoSQL)**.  
+## 🚀 About Me  
 
-- 🔭 Currently building **real-time analytics & web security tools**  
-- 🌱 Learning **Cloud (AWS), DevOps & applied ML for security**  
-- 💬 Ask me about **React, Next.js, Node.js, FastAPI, PostgreSQL, Redis**  
+🌌 Full-stack developer passionate about **web security, real-time apps, and DevOps**.  
+⚡ Skilled in **JavaScript, TypeScript, React, Node.js, WebSockets, Docker, Kubernetes, CI/CD**.  
+🛠 Currently exploring **Cloud (AWS), applied ML in security, and scalable systems**.  
+
+- 🔭 Working on **real-time analytics & browser security tools**  
+- 🌱 Diving deep into **DevOps + Cloud-native architectures**  
 - 📫 Reach me: **nishant6038@gmail.com**  
-- ⚡ Fun fact: I debug at 3 AM and call it *“night mode coding”* 🌙  
+- 🌙 Fun fact: I debug best at **3 AM (night-mode coding)**  
 
 ---
 
@@ -26,55 +28,31 @@ Skilled in **JavaScript (ES6+), TypeScript, Node.js, React, Express, and WebSock
 
 ---
 
-## 📊 GitHub Stats & Charts  
+## 📊 GitHub Performance  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ladi-nishant&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=ladi-nishant&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ladi-nishant&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true&bg_color=00000000" height="170" />
+  <img src="https://streak-stats.demolab.com?user=ladi-nishant&theme=radical&hide_border=true&border_radius=15&background=00000000" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladi-nishant&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladi-nishant&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=00000000" height="170"/>
 </p>
 
 ---
 
+## 🔧 Tech Stack (Floating Effects)  
 
-## 🔧 Technical Skills  
-
-### 🖥️ Languages  
+<!-- ✨ Floating Skills with Transparent Glow -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,next,redux,tailwind,nodejs,express,fastapi,mongodb,postgres,docker,kubernetes,aws,git" width="90%" />
 </p>
 
-### ⚡ Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Locomotive_Scroll-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-
-### 🗄️ Databases & ORMs  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-  <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neondatabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=orange" />
-</p>
-
-### 🛠️ Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,postman" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk_Auth-0052CC?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Winston_Logger-000000?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socketdotio&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/Clerk_Auth-010101?style=for-the-badge&logo=clerk&logoColor=00FFCC" />
 </p>
 
 ---
@@ -82,9 +60,9 @@ Skilled in **JavaScript (ES6+), TypeScript, Node.js, React, Express, and WebSock
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="mailto:nishant6038@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ladi-nishant"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ladi-nishant"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nishant6038@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF3333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ladi-nishant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ladi-nishant"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -96,5 +74,5 @@ Skilled in **JavaScript (ES6+), TypeScript, Node.js, React, Express, and WebSock
 
 <!-- 🌈 Rainbow Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=footer&reversal=true" />
 </p>
