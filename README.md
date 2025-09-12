@@ -39,22 +39,6 @@ Skilled in **JavaScript (ES6+), TypeScript, Node.js, React, Express, and WebSock
 
 ---
 
-## 🏆 Achievements & Activity  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ladi-nishant&theme=onedark&margin-w=10&margin-h=10&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ladi-nishant&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
-</p>
-
----
-
-<!-- 🌊 Wave Divider -->
-<img src="https://raw.githubusercontent.com/luisangelisrael/wave-divider/main/wave.svg" alt="wave divider"/>
-
----
 
 ## 🔧 Technical Skills  
 
