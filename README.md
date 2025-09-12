@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ladi Nishant</h1>
-<h3 align="center">Full-Stack Developer | Security Enthusiast | Open-Source Contributor</h3>
+<!-- 🌌 Animated Gradient Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/7VbWjJj/gradient-bg.gif" width="100%" alt="animated banner" />
+</p>
+
+<!-- Neon Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=⚡+Ladi+Nishant;💻+Full+Stack+Developer;🔐+Security+Enthusiast;🚀+Always+Learning" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
 Skilled in **JavaScript (ES6+), TypeScript, Node.js, React, Express, and WebSockets**, I bring hands-on experience in **containerization (Docker, Kubernetes)**, **CI/CD pipelines**, **OAuth-based authentication**, and **database management (SQL/NoSQL)**.  
+
 - 🔭 Currently building **real-time analytics & web security tools**  
 - 🌱 Learning **Cloud (AWS), DevOps & applied ML for security**  
 - 💬 Ask me about **React, Next.js, Node.js, FastAPI, PostgreSQL, Redis**  
@@ -13,11 +21,16 @@ Skilled in **JavaScript (ES6+), TypeScript, Node.js, React, Express, and WebSock
 
 ---
 
+<!-- 🌊 Wave Divider -->
+<img src="https://raw.githubusercontent.com/luisangelisrael/wave-divider/main/wave.svg" alt="wave divider"/>
+
+---
+
 ## 📊 GitHub Stats & Charts  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ladi-nishant&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="160" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-  <img src="https://streak-stats.demolab.com?user=ladi-nishant&theme=tokyonight&hide_border=true&border_radius=12" height="160" style="box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ladi-nishant&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ladi-nishant&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
 </p>
 
 <p align="center">
@@ -35,6 +48,11 @@ Skilled in **JavaScript (ES6+), TypeScript, Node.js, React, Express, and WebSock
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ladi-nishant&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
 </p>
+
+---
+
+<!-- 🌊 Wave Divider -->
+<img src="https://raw.githubusercontent.com/luisangelisrael/wave-divider/main/wave.svg" alt="wave divider"/>
 
 ---
 
@@ -83,4 +101,16 @@ Skilled in **JavaScript (ES6+), TypeScript, Node.js, React, Express, and WebSock
   <a href="mailto:nishant6038@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ladi-nishant"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ladi-nishant"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- 🐍 Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<!-- 🌈 Rainbow Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer" />
 </p>
