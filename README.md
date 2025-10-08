@@ -1,16 +1,16 @@
 # Ladi Nishant 
-**Full Stack Developer | Security Enthusiast | Cloud & DevOps Practitioner**
+Full Stack Developer | Cloud & DevOps | Web Security
 
 ---
 
 ##  About Me  
 
-I am a **Full Stack Developer** with expertise in building **real-time web applications, scalable systems, and secure platforms**. Passionate about modern web technologies, DevOps practices, and cloud infrastructure.  
-
-- 🔹 Strong expertise: **React, Next.js, Node.js, FastAPI, PostgreSQL, Redis**  
-- 🔹 DevOps & Cloud: **Docker, Kubernetes, AWS**  
-- 🔹 Focus areas: **Real-time analytics, web security, scalable architecture**  
-- 🔹 Fun fact: Thrive in **high-pressure coding environments and complex debugging**  
+Expertise in building **real-time web applications, scalable systems, and secure platforms**. 
+Reduced manual operational effort by 40% through automation of security testing workflows and real-time collaboration
+features. Optimized backend and database performance, achieving up to 25% latency reduction via Node.js, PostgreSQL
+indexing, and Redis caching. Engineered an ML-powered web security detection system achieving >92% accuracy with
+real-time alerts under 100 ms latency. Delivered interactive dashboards in React for monitoring security events, project
+progress, and analytics across multiple platforms.
 
 ---
 
