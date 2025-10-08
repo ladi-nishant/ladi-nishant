@@ -5,12 +5,11 @@ Full Stack Developer | Cloud & DevOps | Web Security
 
 ##  About Me  
 
-Expertise in building **real-time web applications, scalable systems, and secure platforms**. 
-Reduced manual operational effort by 40% through automation of security testing workflows and real-time collaboration
-features. Optimized backend and database performance, achieving up to 25% latency reduction via Node.js, PostgreSQL
-indexing, and Redis caching. Engineered an ML-powered web security detection system achieving >92% accuracy with
-real-time alerts under 100 ms latency. Delivered interactive dashboards in React for monitoring security events, project
-progress, and analytics across multiple platforms.
+Expertise in building **real-time web applications, scalable systems, and secure platforms**.  
+Reduced manual operational effort by 40% through automation of security testing workflows and real-time collaboration features.  
+Optimized backend and database performance, achieving up to 25% latency reduction via Node.js, PostgreSQL indexing, and Redis caching.  
+Engineered an ML-powered web security detection system achieving >92% accuracy with real-time alerts under 100 ms latency.  
+Delivered interactive dashboards in React for monitoring security events, project progress, and analytics across multiple platforms.
 
 ---
 
@@ -27,19 +26,11 @@ progress, and analytics across multiple platforms.
 
 ---
 
-## 🔧 Tech Stack  
+## Tech Stack  
 
-**Languages & Frameworks:**  
-JavaScript (ES6+), TypeScript, Python, React.js, Next.js, Redux, TailwindCSS, Node.js, Express, FastAPI  
-
-**Databases & Storage:**  
-MongoDB, PostgreSQL, Redis  
-
-**DevOps & Cloud:**  
-Docker, Kubernetes, AWS, CI/CD Pipelines  
-
-**Other Tools:**  
-WebSockets, Stripe, Framer Motion, Clerk Auth, Git  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,next,redux,tailwind,nodejs,express,fastapi,mongodb,postgres,redis,docker,kubernetes,aws,git&theme=dark" width="90%" />
+</p>
 
 ---
 
@@ -50,9 +41,3 @@ WebSockets, Stripe, Framer Motion, Clerk Auth, Git
   <a href="https://linkedin.com/in/ladi-nishant"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ladi-nishant"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
-## Summary  
-
-I am a **results-driven developer** with experience in designing and implementing **robust web applications, cloud-native systems, and security-focused solutions**. My professional approach ensures **scalable, maintainable, and high-performance software**, making me an asset for teams looking to **build complex, modern web platforms**.  
