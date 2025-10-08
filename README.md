@@ -1,37 +1,20 @@
-<!-- 🌌 Futuristic Animated Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/5rvpM9Z/nebula-banner.gif" width="100%" alt="nebula banner" />
-</p>
-
-<!-- 💫 Neon Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFF7&center=true&vCenter=true&width=850&lines=⚡+Ladi+Nishant;💻+Full+Stack+Developer;🔐+Security+Enthusiast;🚀+Always+Exploring" alt="Typing SVG" />
-</p>
+# Ladi Nishant 
+**Full Stack Developer | Security Enthusiast | Cloud & DevOps Practitioner**
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
-🛰 Full-stack dev passionate about **real-time apps, DevOps, and web security**.  
-⚡ Tech I use: **React, Next.js, Node.js, WebSockets, Docker, Kubernetes**.  
-☁️ Currently exploring **AWS, scalable systems & applied ML in security**.  
+I am a **Full Stack Developer** with expertise in building **real-time web applications, scalable systems, and secure platforms**. Passionate about modern web technologies, DevOps practices, and cloud infrastructure.  
 
-- 🔭 Building **real-time analytics & browser security tools**  
-- 🌱 Learning **Cloud + DevOps pipelines**  
-- 💬 Ask me about **React, FastAPI, PostgreSQL, Redis**  
-- 🌙 Fun fact: I debug best at **3 AM night-mode coding** 🌌  
+- 🔹 Strong expertise: **React, Next.js, Node.js, FastAPI, PostgreSQL, Redis**  
+- 🔹 DevOps & Cloud: **Docker, Kubernetes, AWS**  
+- 🔹 Focus areas: **Real-time analytics, web security, scalable architecture**  
+- 🔹 Fun fact: Thrive in **high-pressure coding environments and complex debugging**  
 
 ---
 
-<!-- 🌊 Wave Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00fff7,100:ff00ff&height=100&section=header"/>
-</p>
-
-
----
-
-## 📊 GitHub Performance  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ladi-nishant&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=00000080" height="170" />
@@ -44,28 +27,23 @@
 
 ---
 
-## 🔧 Floating Tech Stack  
+## 🔧 Tech Stack  
 
-<!-- 🌌 Animated floating effect background -->
-<p align="center">
-  <img src="https://i.ibb.co/tCNrQ4d/skills-bg.gif" width="100%" alt="floating bg" />
-</p>
+**Languages & Frameworks:**  
+JavaScript (ES6+), TypeScript, Python, React.js, Next.js, Redux, TailwindCSS, Node.js, Express, FastAPI  
 
-<!-- ✨ Transparent glowing skills -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,next,redux,tailwind,nodejs,express,fastapi,mongodb,postgres,docker,kubernetes,aws,git&theme=dark" width="90%" />
-</p>
+**Databases & Storage:**  
+MongoDB, PostgreSQL, Redis  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&logo=framer&logoColor=00FFCC" />
-  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=00FF99" />
-  <img src="https://img.shields.io/badge/Clerk_Auth-010101?style=for-the-badge&logo=clerk&logoColor=00FFCC" />
-</p>
+**DevOps & Cloud:**  
+Docker, Kubernetes, AWS, CI/CD Pipelines  
+
+**Other Tools:**  
+WebSockets, Stripe, Framer Motion, Clerk Auth, Git  
 
 ---
 
-## 🌍 Connect with Me  
+## Connect with Me  
 
 <p align="center">
   <a href="mailto:nishant6038@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF3333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -75,12 +53,6 @@
 
 ---
 
-<!-- 🐍 Snake Contribution Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+## Summary  
 
-<!-- 🌈 Futuristic Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff7,100:ff00ff&height=120&section=footer&reversal=true" />
-</p>
+I am a **results-driven developer** with experience in designing and implementing **robust web applications, cloud-native systems, and security-focused solutions**. My professional approach ensures **scalable, maintainable, and high-performance software**, making me an asset for teams looking to **build complex, modern web platforms**.  
